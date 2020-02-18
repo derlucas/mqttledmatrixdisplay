@@ -1,0 +1,17 @@
+{
+  "name": "LEDMatrix",
+  "device_id": "ledmatrix",
+  "device_stats_interval": 60,
+  "wifi": {
+    "ssid": "wireless",
+    "password": "have fun 23"
+  },
+  "mqtt": {
+    "host": "mond.lan",
+    "port": 1883,
+    "base_topic": "homie/"
+  },
+  "ota": {
+    "enabled": true
+  }
+}
