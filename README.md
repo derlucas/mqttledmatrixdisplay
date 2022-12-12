@@ -1,3 +1,9 @@
+# Not used anymore - Nicht mehr in Verwendung.
+
+Diese Firmware wird nicht mehr verwendet, stattdessen ist nun ESPhome im Einsatz.
+
+
+
 # Matrix ESP dings
 
 Dieses Projekt besteht aus einem Wemos D1 mini und 8x LED Matrix (8x8 Leds) als Laufschrift-matrix
